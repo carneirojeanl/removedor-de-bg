@@ -1,0 +1,14 @@
+# Ignore the virtual environment directory
+venv/
+
+# Ignore Python bytecode and cache files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Optional: Ignore VSCode and PyCharm IDE configuration files
+.vscode/
+.idea/
+
+node_modules

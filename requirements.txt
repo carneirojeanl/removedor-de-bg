@@ -1,0 +1,4 @@
+rembg
+numpy
+pillow
+fastapi[standard]
